@@ -1,1 +1,7 @@
+#A function that takes an input from the user and calculate someone’s age
+
+user_year=int(input("Enter your birth year"))
+curr_year=int(input("Enter the current year"))
+age=curr_year-user_year
+print("The age of the user is",age)
 
