@@ -5,3 +5,7 @@ curr_year=int(input("Enter the current year"))
 age=curr_year-user_year
 print("The age of the user is",age)
 
+def helloWorld():
+    print(‘Hello World’)
+    
+helloWorld()
